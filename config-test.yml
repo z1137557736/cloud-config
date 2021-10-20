@@ -1,2 +1,2 @@
 ﻿config:
-  info: branch: master, config-test.yml, version = 1
+  info: branch = master, config-test.yml, version = 1
